@@ -1,3 +1,5 @@
+![Header](https://i.ibb.co/gPQ25Nm/52822621855-e19b0f9aa1-o.jpg)
+
 # 💫 About Me:
 👋 Hi, I’m Rudra Protap Chakraborty<br>👨‍🎓 Student | BSc in Physics<br>🌏 From Bangladesh, studying at Amity University, Kolkata<br>💻 Aspiring Front-End Developer<br><br>About Me:<br>🚀 I’m passionate about exploring the intersection of physics and technology.<br>💡 I enjoy building interactive and visually appealing web applications.<br>🌱 Currently honing my skills in JavaScript, React, and modern web development tools.<br>🧪 Beyond coding, I’m deeply interested in mechanics, thermal physics, and all things science!<br><br>Fun Facts:<br>I’m on a journey to combine creative coding with my love for physics simulations.<br>When I’m not coding or studying, you’ll find me exploring new tech trends or working on personal projects.<br>Feel free to connect and collaborate! Let's create something amazing together. 😊
 
@@ -7,10 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rudraphymos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudraphymos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.ibb.co/gVz37kt/472887233-122135635136548063-3822766184916713919-n.jpg"  />
 
 ###
 
